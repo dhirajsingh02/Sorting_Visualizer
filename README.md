@@ -2,15 +2,21 @@ Sorting Visualizer
 
 Sorting Visualizer is an interactive web application that helps users understand how different sorting algorithms work by providing visual animations of the sorting process.
 
-                                           Features
-                          Supports multiple sorting algorithms:
+Features
+Supports multiple sorting algorithms:
 
 Bubble Sort
+
 Selection Sort
+
 Insertion Sort
+
 Merge Sort
+
 Quick Sort
+
 Quick Sort 3.0
+
 Heap Sort
 
 Adjustable array size and speed control
@@ -24,7 +30,6 @@ Responsive design for various screen sizes
             JavaScript - Core logic implementation
 
                                 Installation
-
 Clone the repository:
 
 git clone https://github.com/dhirajsingh02/sorting_Visualizer.git
