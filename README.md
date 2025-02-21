@@ -25,30 +25,27 @@ Step-by-step execution for better understanding
 Responsive design for various screen sizes
        
                       Technologies Used
-            React.js - Frontend framework
-            Vite - Build tool for fast development
-            JavaScript - Core logic implementation
-
+React.js - Frontend framework
+Vite - Build tool for fast development
+JavaScript - Core logic implementation
                                 Installation
 Clone the repository:
 
-git clone https://github.com/dhirajsingh02/sorting_Visualizer.git
+             git clone https://github.com/dhirajsingh02/sorting_Visualizer.git
 
 Navigate to the project directory:
 
-cd sorting-Visualizer
+             cd sorting-Visualizer
 
 Install dependencies:
 
-npm install
+             npm install
 
 Start the development server:
 
-npm run dev
+             npm run dev
 
 
-Acknowledgments
-
+Acknowledgments:
 Inspired by various sorting algorithm visualizers
-
 Thanks to open-source contributors for resources and guidance
